@@ -120,5 +120,6 @@
         </tfoot>
     </table>
 </div>
+<footer>&copy; 2024 MSIB Salman Alfariz. All Rights Reserved.</footer>
 </body>
 </html>
